@@ -13,6 +13,9 @@ Kelas: TI.24.A4
 
 ## StoryBoard
 
+![Yellow Green Business Work Life Comic Storyboard](https://github.com/user-attachments/assets/dfd05c9f-6fea-4923-a316-42556549839f)
+
+
 ## Mockup
 
 ## UI (User Interface)
