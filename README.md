@@ -21,5 +21,7 @@ Kelas: TI.24.A4
 
 
 ## UI (User Interface)
+<img width="2681" height="844" alt="UI   UX (Copy)" src="https://github.com/user-attachments/assets/6b831332-a895-4205-a062-fb75656dd5b0" />
+
 
 ## UX (User Experience) 
