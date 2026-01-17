@@ -10,6 +10,8 @@ Kelas: TI.24.A4
 <img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/5cdcf3ac-e814-4921-8efb-172c2862ea69" />
 
 ## Splash Screen
+<img width="1043" height="529" alt="image" src="https://github.com/user-attachments/assets/57fd2d03-4599-4b28-9af8-5db696e4dbe8" />
+
 
 ## StoryBoard
 
