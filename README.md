@@ -17,6 +17,8 @@ Kelas: TI.24.A4
 
 
 ## Mockup
+<img width="2146" height="855" alt="Untitled (9)" src="https://github.com/user-attachments/assets/6ff5a5eb-bd63-43ce-ad12-606293e566e0" />
+
 
 ## UI (User Interface)
 
