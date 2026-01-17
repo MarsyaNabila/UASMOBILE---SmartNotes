@@ -27,3 +27,5 @@ Kelas: TI.24.A4
 ## UX (User Experience) 
 <img width="3576" height="844" alt="UI   UX" src="https://github.com/user-attachments/assets/50bec165-f063-4e7c-819a-afe2e145d3a4" />
 
+https://www.figma.com/design/RAcCBIGWZ2IOiMSDY88Rc7/UI---UX?m=dev&t=w8nAcDR8ienuACDL-1
+
